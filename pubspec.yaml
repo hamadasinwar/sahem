@@ -1,0 +1,61 @@
+name: sahemapp
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  firedart: ^0.9.0+1
+  firebase_core: ^1.4.0
+  firebase_auth: ^3.0.1
+  shared_preferences: ^2.0.6
+  flutter_staggered_grid_view: ^0.4.0
+  circular_countdown_timer: ^0.2.0
+  pinput: ^1.2.0
+  #######################
+
+  flutter_localizations:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+  adobe_xd:
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/logo1.png
+    - assets/images/logo2.png
+    - assets/images/logo3.png
+    - assets/images/splash.png
+    - assets/images/back.png
+    - assets/images/person.jpg
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  fonts:
+    - family: Jenine
+      fonts:
+        - asset: assets/fonts/Jenine.otf
