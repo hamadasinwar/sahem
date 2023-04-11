@@ -1,16 +1,6 @@
-# sahemapp
+# Sahem
 
-A new Flutter project.
+## Cross-platform charity application
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](https://mostaql.hsoubcdn.com/uploads/thumbnails/1130229/616c4cbd85a69/threedmockup-2.png)
+###### An example for a game created with libGDX: [Pathway](https://store.steampowered.com/app/546430/Pathway/) by Robotality. Find more games in our [Showcase](https://libgdx.com/showcase/).
